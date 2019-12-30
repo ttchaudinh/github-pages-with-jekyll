@@ -1,10 +1,8 @@
-title: Welcome to my page
+title: Life is a journey and never stop moving forward to learn new things
 author: Dinh Tran
 email: tranthichaudinh@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This blog shares the journey how I transformed from a Tax Consultant in Vietnam to a Data Analyst in Stockholm
 
 # social links
 twitter_username: tranthichaudinh

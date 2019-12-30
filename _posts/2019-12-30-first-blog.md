@@ -1,7 +1,6 @@
 ---
-title: "Welcome to my blog"
+title: "R - My first programming language"
 date: 2019-12-30
 ---
 
 
-This is the first draft of my blog.
